@@ -1,0 +1,19 @@
+{
+  "name": "bsnbbg",
+  "version": "1.0.0",
+  "description": "dashboard of games played in BSNBBG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xirez/BSNBBG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xirez/BSNBBG/issues"
+  },
+  "homepage": "https://github.com/Xirez/BSNBBG#readme"
+}
