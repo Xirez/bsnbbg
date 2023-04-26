@@ -9,16 +9,16 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 
 // JWT configuration
-const jwt = require('jsonwebtoken');
-app.set('jwtSecret', process.env.JWT_SECRET);
-app.set('expiresIn', 3600000);
-jwt.sign(
-    {exp: Math.floor(Date.now() / 1000) + (60 * 60)}, 
-    process.env.JWT_SECRET, 
-    { algorithm: 'HS256' }, 
-    function(err, token) {
-    console.log(token);
-});
+// const jwt = require('jsonwebtoken');
+// app.set('jwtSecret', process.env.JWT_SECRET);
+// app.set('expiresIn', 3600000);
+// jwt.sign(
+//     {exp: Math.floor(Date.now() / 1000) + (60 * 60)}, 
+//     process.env.JWT_SECRET, 
+//     { algorithm: 'HS256' }, 
+//     function(err, token) {
+//     console.log(token);
+// });
 
 // Routes
 const usersRoutes = require('./routes/users');
