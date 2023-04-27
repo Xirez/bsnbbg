@@ -1,0 +1,78 @@
+Med appen kan du hålla reda på din samling, spel och poäng i ett lättanvänt verktyg.
+Se statistik och grafer för dina spel, spel och andra spelare.
+Fungerar offline, kan synkronisera med BoardGameGeek.
+
+- Hur många matcher spelade du nyligen?
+- Vem gjorde högst poäng för en match?
+– Med vem spelade du och vem vinner mer?
+- Förbättrade du din poäng från förra gången?
+- Jämför spelare, visa grafer och diagram.
+- Håll koll på din samling och synkronisera med BoardGameGeek (BGG).
+
+Samlingshanteringsfunktioner för appen:
+- Håll koll på varje spel du har spelat eller är intresserad av.
+- Välj en specifik version och bild och spåra flera kopior.
+- Ställ in status på Ägd, önskelista, Vill du spela och mycket mer.
+- Ange detaljer som kommentarer, betalt pris, förvärvsdatum, etc.
+- Filtrera spel på status, Spelat men ej ägt, Ospelat ägt.
+- Ställ in anpassade filter för att välja ett spel för din specifika grupp.
+- Helautomatisk synkronisering med din BoardGameGeek (BGG)-samling.
+
+Spelspårningsfunktioner:
+- Sätt poängregler, samarbets- och lagspel för varje match.
+- Välj spel och spelade expansioner.
+- Ställ in spelare och platser, inklusive anonyma spelare.
+- Ange plats, poäng per spelare och många fler detaljer.
+- Beräkna poäng i farten genom att använda + och - tecken.
+- Skapa lag och ange lagresultat.
+- Lägg till spelarroller och välj bland tidigare använda.
+- Använd en timer för att hålla reda på din spellängd.
+- Lägg till en spelanteckning som du kan se varje gång du startar ett spel.
+- Lägg upp dina spel till BoardGameGeek (BGG), inklusive automatisk post efter varje räddning.
+- Importera befintliga spel från BoardGameGeek (BGG), Yucata och Board Game Arena (BGA).
+- Skicka ett eller flera spel till andra app-användare så bara en av er måste ange det.
+
+Statistikfunktioner:
+- Se statistik för varje spel och spelare, och kombination.
+- Se cirkeldiagram, speltider och varaktighetsdiagram och poängtabeller.
+- Se insikter för spel och spelare, för olika tidsperioder.
+- Se din med H-index, femmor, dimes, quarters och århundraden.
+- Se en spelares personliga H-index och vinstprocent.
+- Dela Insights-diagram och 3x3-bilder.
+- Se kostnad per spel för dina spel.
+
+appen har export- och importfunktioner för enkel säkerhetskopiering till en mängd olika tjänster.
+Du kan synkronisera med andra enheter via appen Cloud sync (en prenumeration i appen).
+Allt i ett inbyggt gränssnitt som stöder mörkt läge på Android 10+, liggande och surfplattor.
+
+Med expansionen för djup statistik (köp i appen):
+- Utökade speldiagram, baserat på antal spelare.
+- Filtrera din data på spelare, platser, specifika perioder och spelarantal.
+- Statistik för en specifik kombination av spelare, och jämför dem.
+- Vinstrader, tiebreaks och statistik för nya och startande spelare.
+- Rollbaserad statistik, per roll och per spelare.
+- Månatlig värmekarta över pjäser och spellängd.
+- Kostnad per timme, spelare med mera.
+
+Med Challenges-expansionen (köp i appen):
+- Skapa en utmaning från en av mallarna.
+- x gånger y utmaningar: spela x spel y gånger.
+- Rekord x spelar utmaningar.
+- Pågående Nå dina nästa H-index-utmaningar.
+- Ställ in tidsperioden och välj specifika spel att spåra, eller använd autofyll.
+- Filtrera specifika spelare, platser och spelarantal för att räknas för utmaningen.
+
+Med taggningsexpansionen (köp i appen):
+- Lägg till taggar till spel, spelare och platser.
+- Skapa och spara anpassade filter, nu även med taggar.
+- Anpassa rullgardinsmenyn för spelfilter.
+- Skapa avancerade filter med flera kriterier och logiska operationer.
+- Se kombinerad spelstatistik.
+- Synkronisera speltaggar med BoardGameGeek.
+- Skapa utmaningar (om tillgängliga) baserat på spelfilter eller taggar.
+
+Med en Cloud sync-prenumeration:
+- Synkronisera dina data sömlöst mellan alla dina enheter.
+- Håll en säkerhetskopia av dina data i molnet.
+
+Observera att alla ändringar på BoardGameGeeks webbplats eller API tillfälligt kan bryta BGG-relaterade funktioner. Jag kan inte garantera deras fortsatta tillgänglighet.

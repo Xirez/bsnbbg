@@ -1,0 +1,38 @@
+Board Record registrerar dina brädspel och spårar poäng, spellängd, spelare, plats och annan intressant information om dina spelsessioner.
+
+• Skapa anpassade resultatblad för varje spel för att dela upp poäng efter omgång eller poängkategori.
+• Ställ in spelspecifika taggar för att definiera hur ett spel vanns eller förlorades.
+• Spela in lag, spelarroller och plats.
+• Spela in vilka expansioner eller tillägg som användes i en viss pjäs.
+• Skapa spelargrupper och se spelstatistik för den gruppen för alla spel.
+Skapa kampanjer för att spela in kampanj/gamla spelningar för att spåra värden över hela kampanjen och se kampanjspecifik statistik.
+• Använd det inbyggda verktyget för att slumpmässigt välja en startspelare och sedan se statistik som hur ofta startspelaren vinner.
+• Använd verktyget Spelväljare när du inte kan bestämma dig för vad du ska spela. Filtrera alternativen efter antal spelare, spellängd och speltyp.
+• Rösta på spel för att ge den slumpmässiga väljaren viktning.
+• Synkronisera dina pjäser och samlingar med BoardGameGeek.
+• Importera befintlig data från BoardGameGeek eller BG Stats.
+• Importera befintliga data från ScorePal inklusive pjäser och resultatlappar.
+• Dela dina pjäser med dina vänner.
+
+Se en mängd intressant statistik från din speldata.
+
+• Höga, genomsnittliga och låga poäng av totalpoäng och per omgång/poängkategori.
+• Se statistik för avancerade poängalternativ som vinstvillkor och växlar
+• Genomsnittlig spellängd.
+• Expansionsspel.
+• Vinn % och poäng efter roll.
+• Tagganvändning.
+• Filtrera statistik efter taggar, expansioner och mer.
+• Se ditt H-index och vilka spel du ska spela härnäst för att öka det.
+
+Board Record Premium
+
+Board Record Premium är en engångsbetalning för att ta bort annonser och låsa upp ytterligare funktioner. Det kommer att vara den enda betalningen du någonsin behöver göra för Board Record. Alla nuvarande och framtida premiumfunktioner kommer att inkluderas.
+
+• Ta bort annonser
+• Mer avancerade resultatbladsalternativ
+• Kampanj/legacy support
+• Fler Game Picker-filter
+• Filtrera spelstatistik efter taggar
+• Lås upp ytterligare statfilter
+• Spelargrupper
