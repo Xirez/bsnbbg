@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev-server": "nodemon backend/server.js",
-    "dev-frontend": "npm start frontend/src/index.js"
+    "dev-frontend": "cd frontend && npm start"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Xirez/BSNBBG/issues"
   },
-  "homepage": "https://github.com/Xirez/BSNBBG#readme"
+  "homepage": "https://github.com/Xirez/BSNBBG#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0"
+  }
 }
